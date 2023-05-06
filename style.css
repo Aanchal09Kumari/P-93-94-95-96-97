@@ -1,0 +1,56 @@
+#flower_img 
+{
+  align-self: left;
+  align-items: left;
+
+}
+#flow
+{
+  width: 800px;
+  height: 100%;
+  align-self: left;
+}
+#user
+{
+    width: 300px;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15p
+}
+.login
+{
+  align-self: right;
+  float: center;
+
+}
+body{
+  background-color: antiquewhite;
+}
+.ustick
+{
+  width: 20px;
+  height: 20px;
+}
+#out
+{
+  background-color: white;
+  font-size: 20px;
+   padding: 10px; 
+   width:80%;
+   border-radius: 20px;
+}
+#output
+{
+   background-color: white;
+   font-size: 20px;
+   padding: 10px; 
+   width:80%;
+   border-radius: 20px;
+}
